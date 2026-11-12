@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+*.log
+*.db
+output/
+attendance_summary.csv
+attendance_errors.txt
+monthly_report.csv
